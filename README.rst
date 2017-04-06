@@ -22,8 +22,7 @@ Requirements
 Installation
 ============
 
-1. Download the code from GitHub
-http://github.com/pdsaraujo/nodejs-api-estagio/releases
+1. Download the code from GitHub http://github.com/pdsaraujo/nodejs-api-estagio/releases
 
 2. Uncompress the file
 
